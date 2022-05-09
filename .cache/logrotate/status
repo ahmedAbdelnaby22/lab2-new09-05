@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/ahmed/.cache/upstart/update-notifier-release.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/unity-panel-service.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/unity-settings-daemon.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/ssh-agent.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/upstart-event-bridge.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/gpg-agent.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/unity7.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/indicator-sound.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/window-stack-bridge.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/indicator-session.log" 2022-4-18-22:15:13
+"/home/ahmed/.cache/upstart/dbus.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/*.log" 2022-4-17-1:0:0
+"/home/ahmed/.cache/upstart/hud.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/gnome-keyring-ssh.log" 2022-5-9-22:10:50
+"/home/ahmed/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_ubuntu-release-upgrader_check-new-release-gtk.1000.crash.log" 2022-5-9-22:10:50
